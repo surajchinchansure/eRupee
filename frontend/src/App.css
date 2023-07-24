@@ -1,0 +1,45 @@
+
+body{
+  font-weight: bold;
+  background-color: rgb(218, 147, 60);
+} 
+
+form{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  border: 1px solid #333;
+  border-radius: 12px;
+  padding: 1.5rem;
+  background-color: #fff;
+}
+  
+
+
+form div{
+  padding: 0.2rem;
+}
+
+input{
+  margin: 0.5rem;
+  border-radius: 4px;
+}
+
+label{
+  margin: 0.3rem;
+  font:500;
+}
+
+h1{
+  text-align: center;
+}
+
+button{
+  margin-left: 6rem;
+  padding: 0.5rem;
+  background-color: rgb(15, 212, 91);
+  font-size: 1rem;
+  border-radius: 12px;
+}
+
